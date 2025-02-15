@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/10_C++/03_Projects/SimpleGame/src/SDL_image/src/version.rc
+winresrc.h
+E:/10_C++/03_Projects/SimpleGame/src/SDL_image/src/winresrc.h
+

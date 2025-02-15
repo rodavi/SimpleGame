@@ -1,0 +1,14 @@
+E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/SimpleGame.dir
+E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/edit_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/rebuild_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/CMakeFiles/GameClass.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/CMakeFiles/edit_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/CMakeFiles/rebuild_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL/CMakeFiles/SDL3-shared.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL/CMakeFiles/SDL3_test.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL/CMakeFiles/SDL_uclibc.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL/CMakeFiles/edit_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL/CMakeFiles/rebuild_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL_image/CMakeFiles/SDL3_image-shared.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL_image/CMakeFiles/edit_cache.dir
+E:/10_C++/03_Projects/SimpleGame/build/src/SDL_image/CMakeFiles/rebuild_cache.dir

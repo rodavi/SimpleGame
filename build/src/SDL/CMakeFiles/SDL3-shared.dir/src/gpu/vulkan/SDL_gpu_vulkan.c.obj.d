@@ -1,0 +1,34 @@
+src/SDL/CMakeFiles/SDL3-shared.dir/src/gpu/vulkan/SDL_gpu_vulkan.c.obj: \
+ E:\10_C++\03_Projects\SimpleGame\src\SDL\src\gpu\vulkan\SDL_gpu_vulkan.c \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/SDL_internal.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vulkan/vulkan.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vulkan/vk_platform.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/stddef.h \
+ E:/mingw32/i686-w64-mingw32/include/stddef.h \
+ E:/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/stdint.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vulkan/vulkan_core.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codecs_common.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h264std_encode.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h264std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h265std_encode.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h265std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h264std_decode.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_h265std_decode.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_av1std_decode.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vk_video/vulkan_video_codec_av1std.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/khronos/vulkan/vulkan_beta.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_vulkan.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_stdinc.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_error.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_video.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_begin_code.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/include/SDL3/SDL_close_code.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/gpu/SDL_sysgpu.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/SDL_sysvideo.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/SDL_surface_c.h \
+ E:/10_C++/03_Projects/SimpleGame/src/SDL/src/video/SDL_blit.h \
+ E:\10_C++\03_Projects\SimpleGame\src\SDL\src\gpu\vulkan\SDL_gpu_vulkan_vkfuncs.h
