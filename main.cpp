@@ -1,20 +1,28 @@
+#include "SDL3/SDL.h"
 #include "Game.hpp"
+#include <windows.h>
+#include <cstdio>
 
-Game* game =nullptr;
+//Game* g_game = nullptr;
 
-int main(int argc, char* argv[])
+int main(int arg, char* argv[])
 {
-    game = new Game();
+    AllocConsole();
+    std::freopen("CON","w", stdout);
 
-    game->init("Chapter 2", 640, 480, 0);
-
-    while(game->running())
+    //g_game = new Game();
+    if(TheGame::Instance()->init("Chapter 2", 600, 480, 0))
     {
-        game->render();
-        game->handleEvents();
-        game->update();
+        while(TheGame::Instance()->running())
+        {
+            TheGame::Instance()->handleEvents();
+            TheGame::Instance()->update();
+            TheGame::Instance()->render();
+            SDL_Delay(10);
+        }
+        TheGame::Instance()->clean();
     }
 
-    game->clean();
+
     return 0;
 }

@@ -1,14 +1,14 @@
 Performing C SOURCE FILE Test HAVE_GCC_WDOCUMENTATION failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_11d8d/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_11d8d.dir\build.make CMakeFiles/cmTC_11d8d.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_91929/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_91929.dir\build.make CMakeFiles/cmTC_91929.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_11d8d.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_GCC_WDOCUMENTATION  -D_GNU_SOURCE=1   -Wdocumentation -o CMakeFiles\cmTC_11d8d.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_91929.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_GCC_WDOCUMENTATION  -D_GNU_SOURCE=1   -Wdocumentation -o CMakeFiles\cmTC_91929.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 gcc.exe: error: unrecognized command-line option '-Wdocumentation'
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_11d8d.dir\build.make:77: CMakeFiles/cmTC_11d8d.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_91929.dir\build.make:77: CMakeFiles/cmTC_91929.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_11d8d/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_91929/fast] Error 2
 
 
 Source file was:
@@ -16,14 +16,14 @@ int main(void) { return 0; }
 Performing C SOURCE FILE Test HAVE_GCC_WDOCUMENTATION_UNKNOWN_COMMAND failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_c34dc/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c34dc.dir\build.make CMakeFiles/cmTC_c34dc.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_25f6c/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_25f6c.dir\build.make CMakeFiles/cmTC_25f6c.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c34dc.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_GCC_WDOCUMENTATION_UNKNOWN_COMMAND  -D_GNU_SOURCE=1   -Wdocumentation-unknown-command -o CMakeFiles\cmTC_c34dc.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_25f6c.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_GCC_WDOCUMENTATION_UNKNOWN_COMMAND  -D_GNU_SOURCE=1   -Wdocumentation-unknown-command -o CMakeFiles\cmTC_25f6c.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 gcc.exe: error: unrecognized command-line option '-Wdocumentation-unknown-command'
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c34dc.dir\build.make:77: CMakeFiles/cmTC_c34dc.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_25f6c.dir\build.make:77: CMakeFiles/cmTC_25f6c.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_c34dc/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_25f6c/fast] Error 2
 
 
 Source file was:
@@ -31,14 +31,14 @@ int main(void) { return 0; }
 Performing C SOURCE FILE Test HAVE_GCC_COMMENT_BLOCK_COMMANDS failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_4f354/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_4f354.dir\build.make CMakeFiles/cmTC_4f354.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_d72b7/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d72b7.dir\build.make CMakeFiles/cmTC_d72b7.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4f354.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_GCC_COMMENT_BLOCK_COMMANDS  -D_GNU_SOURCE=1   -fcomment-block-commands=threadsafety -o CMakeFiles\cmTC_4f354.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_d72b7.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_GCC_COMMENT_BLOCK_COMMANDS  -D_GNU_SOURCE=1   -fcomment-block-commands=threadsafety -o CMakeFiles\cmTC_d72b7.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 gcc.exe: error: unrecognized command-line option '-fcomment-block-commands=threadsafety'
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_4f354.dir\build.make:77: CMakeFiles/cmTC_4f354.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_d72b7.dir\build.make:77: CMakeFiles/cmTC_d72b7.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_4f354/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_d72b7/fast] Error 2
 
 
 Source file was:
@@ -46,16 +46,16 @@ int main(void) { return 0; }
 Performing C SOURCE FILE Test HAVE_CLANG_COMMENT_BLOCK_COMMANDS failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_e4f84/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_e4f84.dir\build.make CMakeFiles/cmTC_e4f84.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_b68aa/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_b68aa.dir\build.make CMakeFiles/cmTC_b68aa.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_e4f84.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_CLANG_COMMENT_BLOCK_COMMANDS  -D_GNU_SOURCE=1   /clang:-fcomment-block-commands=threadsafety -o CMakeFiles\cmTC_e4f84.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_b68aa.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_CLANG_COMMENT_BLOCK_COMMANDS  -D_GNU_SOURCE=1   /clang:-fcomment-block-commands=threadsafety -o CMakeFiles\cmTC_b68aa.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 gcc.exe: warning: /clang:-fcomment-block-commands=threadsafety: linker input file unused because linking not done
 gcc.exe: error: /clang:-fcomment-block-commands=threadsafety: linker input file not found: No such file or directory
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e4f84.dir\build.make:77: CMakeFiles/cmTC_e4f84.dir/src.c.obj] Error 1
-mingw32-make.exe[1]: *** Deleting file 'CMakeFiles/cmTC_e4f84.dir/src.c.obj'
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_b68aa.dir\build.make:77: CMakeFiles/cmTC_b68aa.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** Deleting file 'CMakeFiles/cmTC_b68aa.dir/src.c.obj'
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_e4f84/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_b68aa/fast] Error 2
 
 
 Source file was:
@@ -63,19 +63,19 @@ int main(void) { return 0; }
 Determining if the __GLIBC__ exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_a74c6/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a74c6.dir\build.make CMakeFiles/cmTC_a74c6.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_3ea99/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3ea99.dir\build.make CMakeFiles/cmTC_3ea99.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a74c6.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_a74c6.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_3ea99.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_3ea99.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:8:19: error: '__GLIBC__' undeclared (first use in this function); did you mean '__LINE__'?
     8 |   return ((int*)(&__GLIBC__))[argc];
       |                   ^~~~~~~~~
       |                   __LINE__
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_a74c6.dir\build.make:77: CMakeFiles/cmTC_a74c6.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3ea99.dir\build.make:77: CMakeFiles/cmTC_3ea99.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_a74c6/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_3ea99/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -95,18 +95,18 @@ int main(int argc, char** argv)
 Performing C SOURCE FILE Test HAVE_GCC_FVISIBILITY failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_a1cac/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a1cac.dir\build.make CMakeFiles/cmTC_a1cac.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_3ac09/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3ac09.dir\build.make CMakeFiles/cmTC_3ac09.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a1cac.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_GCC_FVISIBILITY  -D_GNU_SOURCE=1 -fvisibility=hidden -Werror -o CMakeFiles\cmTC_a1cac.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_3ac09.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_GCC_FVISIBILITY  -D_GNU_SOURCE=1 -fvisibility=hidden -Werror -o CMakeFiles\cmTC_3ac09.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c: In function 'bar':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:8:33: error: visibility attribute not supported in this configuration; ignored [-Werror=attributes]
     8 |       int bar(void) { return 1; }
       |                                 ^
 cc1.exe: all warnings being treated as errors
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_a1cac.dir\build.make:77: CMakeFiles/cmTC_a1cac.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3ac09.dir\build.make:77: CMakeFiles/cmTC_3ac09.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_a1cac/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_3ac09/fast] Error 2
 
 
 Source file was:
@@ -122,35 +122,35 @@ Source file was:
 Determining if the include file alloca.h exists failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_39fdf/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_39fdf.dir\build.make CMakeFiles/cmTC_39fdf.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_5316b/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5316b.dir\build.make CMakeFiles/cmTC_5316b.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_39fdf.dir/CheckIncludeFile.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_39fdf.dir\CheckIncludeFile.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+Building C object CMakeFiles/cmTC_5316b.dir/CheckIncludeFile.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_5316b.dir\CheckIncludeFile.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: alloca.h: No such file or directory
     1 | #include <alloca.h>
       |          ^~~~~~~~~~
 compilation terminated.
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_39fdf.dir\build.make:77: CMakeFiles/cmTC_39fdf.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_5316b.dir\build.make:77: CMakeFiles/cmTC_5316b.dir/CheckIncludeFile.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_39fdf/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_5316b/fast] Error 2
 
 
 
 Determining if the bcopy exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_3420e/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3420e.dir\build.make CMakeFiles/cmTC_3420e.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_c8894/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c8894.dir\build.make CMakeFiles/cmTC_c8894.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3420e.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_3420e.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_c8894.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_c8894.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'bcopy' undeclared (first use in this function)
    26 |   return ((int*)(&bcopy))[argc];
       |                   ^~~~~
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3420e.dir\build.make:77: CMakeFiles/cmTC_3420e.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c8894.dir\build.make:77: CMakeFiles/cmTC_c8894.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_3420e/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_c8894/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -188,18 +188,18 @@ int main(int argc, char** argv)
 Determining if the index exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_47e56/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_47e56.dir\build.make CMakeFiles/cmTC_47e56.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_53d1d/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_53d1d.dir\build.make CMakeFiles/cmTC_53d1d.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_47e56.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_47e56.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_53d1d.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_53d1d.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'index' undeclared (first use in this function)
    26 |   return ((int*)(&index))[argc];
       |                   ^~~~~
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_47e56.dir\build.make:77: CMakeFiles/cmTC_47e56.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_53d1d.dir\build.make:77: CMakeFiles/cmTC_53d1d.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_47e56/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_53d1d/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -237,18 +237,18 @@ int main(int argc, char** argv)
 Determining if the rindex exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_27d20/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_27d20.dir\build.make CMakeFiles/cmTC_27d20.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_04332/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_04332.dir\build.make CMakeFiles/cmTC_04332.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_27d20.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_27d20.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_04332.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_04332.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'rindex' undeclared (first use in this function)
    26 |   return ((int*)(&rindex))[argc];
       |                   ^~~~~~
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_27d20.dir\build.make:77: CMakeFiles/cmTC_27d20.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_04332.dir\build.make:77: CMakeFiles/cmTC_04332.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_27d20/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_04332/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -286,19 +286,19 @@ int main(int argc, char** argv)
 Determining if the setenv exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_13b75/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_13b75.dir\build.make CMakeFiles/cmTC_13b75.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_d8c45/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d8c45.dir\build.make CMakeFiles/cmTC_d8c45.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_13b75.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_13b75.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_d8c45.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_d8c45.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'setenv' undeclared (first use in this function); did you mean 'getenv'?
    26 |   return ((int*)(&setenv))[argc];
       |                   ^~~~~~
       |                   getenv
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_13b75.dir\build.make:77: CMakeFiles/cmTC_13b75.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_d8c45.dir\build.make:77: CMakeFiles/cmTC_d8c45.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_13b75/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_d8c45/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -336,19 +336,19 @@ int main(int argc, char** argv)
 Determining if the sqr exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_6f3fe/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_6f3fe.dir\build.make CMakeFiles/cmTC_6f3fe.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_be38f/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_be38f.dir\build.make CMakeFiles/cmTC_be38f.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6f3fe.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_6f3fe.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_be38f.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_be38f.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'sqr' undeclared (first use in this function); did you mean 'sqrt'?
    26 |   return ((int*)(&sqr))[argc];
       |                   ^~~
       |                   sqrt
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_6f3fe.dir\build.make:77: CMakeFiles/cmTC_6f3fe.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_be38f.dir\build.make:77: CMakeFiles/cmTC_be38f.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_6f3fe/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_be38f/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -386,19 +386,19 @@ int main(int argc, char** argv)
 Determining if the strlcat exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_54099/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_54099.dir\build.make CMakeFiles/cmTC_54099.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_ce0b6/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ce0b6.dir\build.make CMakeFiles/cmTC_ce0b6.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_54099.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_54099.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_ce0b6.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_ce0b6.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'strlcat' undeclared (first use in this function); did you mean 'strncat'?
    26 |   return ((int*)(&strlcat))[argc];
       |                   ^~~~~~~
       |                   strncat
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_54099.dir\build.make:77: CMakeFiles/cmTC_54099.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ce0b6.dir\build.make:77: CMakeFiles/cmTC_ce0b6.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_54099/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_ce0b6/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -436,19 +436,19 @@ int main(int argc, char** argv)
 Determining if the strlcpy exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_f2e2f/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f2e2f.dir\build.make CMakeFiles/cmTC_f2e2f.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_5296f/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5296f.dir\build.make CMakeFiles/cmTC_5296f.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f2e2f.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_f2e2f.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_5296f.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_5296f.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'strlcpy' undeclared (first use in this function); did you mean 'strncpy'?
    26 |   return ((int*)(&strlcpy))[argc];
       |                   ^~~~~~~
       |                   strncpy
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_f2e2f.dir\build.make:77: CMakeFiles/cmTC_f2e2f.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_5296f.dir\build.make:77: CMakeFiles/cmTC_5296f.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_f2e2f/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_5296f/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -486,19 +486,19 @@ int main(int argc, char** argv)
 Determining if the strnstr exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_81053/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_81053.dir\build.make CMakeFiles/cmTC_81053.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_ee239/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ee239.dir\build.make CMakeFiles/cmTC_ee239.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_81053.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_81053.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_ee239.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_ee239.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'strnstr' undeclared (first use in this function); did you mean 'strstr'?
    26 |   return ((int*)(&strnstr))[argc];
       |                   ^~~~~~~
       |                   strstr
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_81053.dir\build.make:77: CMakeFiles/cmTC_81053.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ee239.dir\build.make:77: CMakeFiles/cmTC_ee239.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_81053/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_ee239/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -536,19 +536,19 @@ int main(int argc, char** argv)
 Determining if the unsetenv exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_c86b9/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c86b9.dir\build.make CMakeFiles/cmTC_c86b9.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_ba7e0/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ba7e0.dir\build.make CMakeFiles/cmTC_ba7e0.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c86b9.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_c86b9.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_ba7e0.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_ba7e0.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'unsetenv' undeclared (first use in this function); did you mean 'getenv'?
    26 |   return ((int*)(&unsetenv))[argc];
       |                   ^~~~~~~~
       |                   getenv
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c86b9.dir\build.make:77: CMakeFiles/cmTC_c86b9.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ba7e0.dir\build.make:77: CMakeFiles/cmTC_ba7e0.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_c86b9/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_ba7e0/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -586,19 +586,19 @@ int main(int argc, char** argv)
 Determining if the wcslcat exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_3c16a/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3c16a.dir\build.make CMakeFiles/cmTC_3c16a.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_edcca/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_edcca.dir\build.make CMakeFiles/cmTC_edcca.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3c16a.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_3c16a.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_edcca.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_edcca.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'wcslcat' undeclared (first use in this function); did you mean 'wcsncat'?
    26 |   return ((int*)(&wcslcat))[argc];
       |                   ^~~~~~~
       |                   wcsncat
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3c16a.dir\build.make:77: CMakeFiles/cmTC_3c16a.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_edcca.dir\build.make:77: CMakeFiles/cmTC_edcca.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_3c16a/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_edcca/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -636,19 +636,19 @@ int main(int argc, char** argv)
 Determining if the wcslcpy exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_fded4/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_fded4.dir\build.make CMakeFiles/cmTC_fded4.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_2249a/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_2249a.dir\build.make CMakeFiles/cmTC_2249a.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_fded4.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_fded4.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_2249a.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_2249a.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: 'wcslcpy' undeclared (first use in this function); did you mean 'wcsncpy'?
    26 |   return ((int*)(&wcslcpy))[argc];
       |                   ^~~~~~~
       |                   wcsncpy
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_fded4.dir\build.make:77: CMakeFiles/cmTC_fded4.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_2249a.dir\build.make:77: CMakeFiles/cmTC_2249a.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_fded4/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_2249a/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -686,19 +686,19 @@ int main(int argc, char** argv)
 Determining if the _uitoa exist failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_830c0/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_830c0.dir\build.make CMakeFiles/cmTC_830c0.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_22781/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_22781.dir\build.make CMakeFiles/cmTC_22781.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_830c0.dir/CheckSymbolExists.c.obj
-E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_830c0.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_22781.dir/CheckSymbolExists.c.obj
+E:\mingw32\bin\gcc.exe   -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_22781.dir\CheckSymbolExists.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: error: '_uitoa' undeclared (first use in this function); did you mean '_ultoa'?
    26 |   return ((int*)(&_uitoa))[argc];
       |                   ^~~~~~
       |                   _ultoa
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:26:19: note: each undeclared identifier is reported only once for each function it appears in
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_830c0.dir\build.make:77: CMakeFiles/cmTC_830c0.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_22781.dir\build.make:77: CMakeFiles/cmTC_22781.dir/CheckSymbolExists.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_830c0/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_22781/fast] Error 2
 
 
 File E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
@@ -736,19 +736,19 @@ int main(int argc, char** argv)
 Performing C SOURCE FILE Test LIBC_HAS_ISINF failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_c6df3/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c6df3.dir\build.make CMakeFiles/cmTC_c6df3.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_cec89/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_cec89.dir\build.make CMakeFiles/cmTC_cec89.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c6df3.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISINF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_c6df3.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_cec89.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISINF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_cec89.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 In file included from E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:2:
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:24: error: conversion from 'double' to 'float' may change value [-Werror=float-conversion]
     5 |           return isinf(d);
       |                        ^
 cc1.exe: all warnings being treated as errors
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c6df3.dir\build.make:77: CMakeFiles/cmTC_c6df3.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_cec89.dir\build.make:77: CMakeFiles/cmTC_cec89.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_c6df3/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_cec89/fast] Error 2
 
 
 Source file was:
@@ -762,19 +762,19 @@ Source file was:
 Performing C SOURCE FILE Test LIBC_HAS_ISINFF failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_a0710/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a0710.dir\build.make CMakeFiles/cmTC_a0710.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_3d3a0/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3d3a0.dir\build.make CMakeFiles/cmTC_3d3a0.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a0710.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISINFF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_a0710.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_3d3a0.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISINFF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_3d3a0.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:16: error: implicit declaration of function 'isinff' [-Werror=implicit-function-declaration]
     5 |         return isinff(f);
       |                ^~~~~~
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:16: error: incompatible implicit declaration of built-in function 'isinff' [-Werror=builtin-declaration-mismatch]
 cc1.exe: all warnings being treated as errors
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_a0710.dir\build.make:77: CMakeFiles/cmTC_a0710.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3d3a0.dir\build.make:77: CMakeFiles/cmTC_3d3a0.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_a0710/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_3d3a0/fast] Error 2
 
 
 Source file was:
@@ -788,19 +788,19 @@ Source file was:
 Performing C SOURCE FILE Test LIBC_HAS_ISNAN failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_ef6a5/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ef6a5.dir\build.make CMakeFiles/cmTC_ef6a5.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_9207f/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_9207f.dir\build.make CMakeFiles/cmTC_9207f.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ef6a5.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISNAN  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_ef6a5.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_9207f.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISNAN  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_9207f.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 In file included from E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:2:
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:24: error: conversion from 'double' to 'float' may change value [-Werror=float-conversion]
     5 |           return isnan(d);
       |                        ^
 cc1.exe: all warnings being treated as errors
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ef6a5.dir\build.make:77: CMakeFiles/cmTC_ef6a5.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_9207f.dir\build.make:77: CMakeFiles/cmTC_9207f.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_ef6a5/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_9207f/fast] Error 2
 
 
 Source file was:
@@ -814,19 +814,19 @@ Source file was:
 Performing C SOURCE FILE Test LIBC_HAS_ISNANF failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_6a431/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_6a431.dir\build.make CMakeFiles/cmTC_6a431.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_bc7f2/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bc7f2.dir\build.make CMakeFiles/cmTC_bc7f2.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6a431.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISNANF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_6a431.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_bc7f2.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DLIBC_HAS_ISNANF  -D_GNU_SOURCE=1 -Wfloat-conversion -Werror -o CMakeFiles\cmTC_bc7f2.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c: In function 'main':
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:16: error: implicit declaration of function 'isnanf' [-Werror=implicit-function-declaration]
     5 |         return isnanf(f);
       |                ^~~~~~
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:5:16: error: incompatible implicit declaration of built-in function 'isnanf' [-Werror=builtin-declaration-mismatch]
 cc1.exe: all warnings being treated as errors
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_6a431.dir\build.make:77: CMakeFiles/cmTC_6a431.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_bc7f2.dir\build.make:77: CMakeFiles/cmTC_bc7f2.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_6a431/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_bc7f2/fast] Error 2
 
 
 Source file was:
@@ -840,17 +840,17 @@ Source file was:
 Performing C SOURCE FILE Test HAVE_GAMEINPUT_H failed with the following output:
 Change Dir: E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_61b6b/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_61b6b.dir\build.make CMakeFiles/cmTC_61b6b.dir/build
+Run Build Command(s):E:/mingw32/bin/mingw32-make.exe -f Makefile cmTC_86260/fast && E:/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_86260.dir\build.make CMakeFiles/cmTC_86260.dir/build
 mingw32-make.exe[1]: Entering directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_61b6b.dir/src.c.obj
-E:\mingw32\bin\gcc.exe -DHAVE_GAMEINPUT_H  -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_61b6b.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
+Building C object CMakeFiles/cmTC_86260.dir/src.c.obj
+E:\mingw32\bin\gcc.exe -DHAVE_GAMEINPUT_H  -D_GNU_SOURCE=1 -o CMakeFiles\cmTC_86260.dir\src.c.obj -c E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c
 E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles\CMakeTmp\src.c:4:14: fatal error: gameinput.h: No such file or directory
     4 |     #include <gameinput.h>
       |              ^~~~~~~~~~~~~
 compilation terminated.
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_61b6b.dir\build.make:77: CMakeFiles/cmTC_61b6b.dir/src.c.obj] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_86260.dir\build.make:77: CMakeFiles/cmTC_86260.dir/src.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'E:/10_C++/03_Projects/SimpleGame/build/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:126: cmTC_61b6b/fast] Error 2
+mingw32-make.exe: *** [Makefile:126: cmTC_86260/fast] Error 2
 
 
 Source file was:

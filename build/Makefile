@@ -129,19 +129,6 @@ SimpleGame/fast:
 .PHONY : SimpleGame/fast
 
 #=============================================================================
-# Target rules for targets named GameClass
-
-# Build rule for target.
-GameClass: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 GameClass
-.PHONY : GameClass
-
-# fast build rule for target.
-GameClass/fast:
-	$(MAKE) $(MAKESILENT) -f src\CMakeFiles\GameClass.dir\build.make src/CMakeFiles/GameClass.dir/build
-.PHONY : GameClass/fast
-
-#=============================================================================
 # Target rules for targets named SDL3-shared
 
 # Build rule for target.
@@ -217,6 +204,150 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/Enemy.obj: src/Enemy.cpp.obj
+.PHONY : src/Enemy.obj
+
+# target to build an object file
+src/Enemy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj
+.PHONY : src/Enemy.cpp.obj
+
+src/Enemy.i: src/Enemy.cpp.i
+.PHONY : src/Enemy.i
+
+# target to preprocess a source file
+src/Enemy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Enemy.cpp.i
+.PHONY : src/Enemy.cpp.i
+
+src/Enemy.s: src/Enemy.cpp.s
+.PHONY : src/Enemy.s
+
+# target to generate assembly for a file
+src/Enemy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Enemy.cpp.s
+.PHONY : src/Enemy.cpp.s
+
+src/Game.obj: src/Game.cpp.obj
+.PHONY : src/Game.obj
+
+# target to build an object file
+src/Game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Game.cpp.obj
+.PHONY : src/Game.cpp.obj
+
+src/Game.i: src/Game.cpp.i
+.PHONY : src/Game.i
+
+# target to preprocess a source file
+src/Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Game.cpp.i
+.PHONY : src/Game.cpp.i
+
+src/Game.s: src/Game.cpp.s
+.PHONY : src/Game.s
+
+# target to generate assembly for a file
+src/Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Game.cpp.s
+.PHONY : src/Game.cpp.s
+
+src/GameObject.obj: src/GameObject.cpp.obj
+.PHONY : src/GameObject.obj
+
+# target to build an object file
+src/GameObject.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj
+.PHONY : src/GameObject.cpp.obj
+
+src/GameObject.i: src/GameObject.cpp.i
+.PHONY : src/GameObject.i
+
+# target to preprocess a source file
+src/GameObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/GameObject.cpp.i
+.PHONY : src/GameObject.cpp.i
+
+src/GameObject.s: src/GameObject.cpp.s
+.PHONY : src/GameObject.s
+
+# target to generate assembly for a file
+src/GameObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/GameObject.cpp.s
+.PHONY : src/GameObject.cpp.s
+
+src/Player.obj: src/Player.cpp.obj
+.PHONY : src/Player.obj
+
+# target to build an object file
+src/Player.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Player.cpp.obj
+.PHONY : src/Player.cpp.obj
+
+src/Player.i: src/Player.cpp.i
+.PHONY : src/Player.i
+
+# target to preprocess a source file
+src/Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Player.cpp.i
+.PHONY : src/Player.cpp.i
+
+src/Player.s: src/Player.cpp.s
+.PHONY : src/Player.s
+
+# target to generate assembly for a file
+src/Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/Player.cpp.s
+.PHONY : src/Player.cpp.s
+
+src/SDLGameObject.obj: src/SDLGameObject.cpp.obj
+.PHONY : src/SDLGameObject.obj
+
+# target to build an object file
+src/SDLGameObject.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj
+.PHONY : src/SDLGameObject.cpp.obj
+
+src/SDLGameObject.i: src/SDLGameObject.cpp.i
+.PHONY : src/SDLGameObject.i
+
+# target to preprocess a source file
+src/SDLGameObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.i
+.PHONY : src/SDLGameObject.cpp.i
+
+src/SDLGameObject.s: src/SDLGameObject.cpp.s
+.PHONY : src/SDLGameObject.s
+
+# target to generate assembly for a file
+src/SDLGameObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.s
+.PHONY : src/SDLGameObject.cpp.s
+
+src/TextureManager.obj: src/TextureManager.cpp.obj
+.PHONY : src/TextureManager.obj
+
+# target to build an object file
+src/TextureManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj
+.PHONY : src/TextureManager.cpp.obj
+
+src/TextureManager.i: src/TextureManager.cpp.i
+.PHONY : src/TextureManager.i
+
+# target to preprocess a source file
+src/TextureManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.i
+.PHONY : src/TextureManager.cpp.i
+
+src/TextureManager.s: src/TextureManager.cpp.s
+.PHONY : src/TextureManager.s
+
+# target to generate assembly for a file
+src/TextureManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.s
+.PHONY : src/TextureManager.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -225,7 +356,6 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... GameClass
 	@echo ... SDL3-shared
 	@echo ... SDL3_image-shared
 	@echo ... SDL3_test
@@ -234,6 +364,24 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/Enemy.obj
+	@echo ... src/Enemy.i
+	@echo ... src/Enemy.s
+	@echo ... src/Game.obj
+	@echo ... src/Game.i
+	@echo ... src/Game.s
+	@echo ... src/GameObject.obj
+	@echo ... src/GameObject.i
+	@echo ... src/GameObject.s
+	@echo ... src/Player.obj
+	@echo ... src/Player.i
+	@echo ... src/Player.s
+	@echo ... src/SDLGameObject.obj
+	@echo ... src/SDLGameObject.i
+	@echo ... src/SDLGameObject.s
+	@echo ... src/TextureManager.obj
+	@echo ... src/TextureManager.i
+	@echo ... src/TextureManager.s
 .PHONY : help
 
 

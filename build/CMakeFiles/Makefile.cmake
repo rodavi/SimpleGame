@@ -67,7 +67,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.23.2/CMakeSystem.cmake"
   "src/SDL/CMakeFiles/SDL_build_config.h.intermediate"
   "src/SDL/CMakeFiles/git-data/grabRef.cmake"
-  "../src/CMakeLists.txt"
   "../src/SDL/CMakeLists.txt"
   "../src/SDL/cmake/3rdparty.cmake"
   "../src/SDL/cmake/FindLibUSB.cmake"
@@ -103,7 +102,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/SDL/CMakeFiles/SDL_build_config.h.intermediate"
   "src/SDL/CMakeFiles/git-data/HEAD"
   "src/SDL/CMakeFiles/git-data/grabRef.cmake"
@@ -119,7 +117,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/SimpleGame.dir/DependInfo.cmake"
-  "src/CMakeFiles/GameClass.dir/DependInfo.cmake"
   "src/SDL/CMakeFiles/SDL3-shared.dir/DependInfo.cmake"
   "src/SDL/CMakeFiles/SDL3_test.dir/DependInfo.cmake"
   "src/SDL/CMakeFiles/SDL_uclibc.dir/DependInfo.cmake"
