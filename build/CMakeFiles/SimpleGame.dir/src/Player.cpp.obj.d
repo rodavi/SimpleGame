@@ -189,6 +189,24 @@ CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_multimap.h \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/erase_if.h \
  E:\10_C++\03_Projects\SimpleGame\src\LoaderParams.hpp \
+ E:\10_C++\03_Projects\SimpleGame\src\Vector2D.hpp \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/math.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/cmath \
+ E:/mingw32/i686-w64-mingw32/include/math.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/specfun.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/limits \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/gamma.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/special_function_util.h \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/bessel_function.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/beta_function.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/ell_integral.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/exp_integral.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/hypergeometric.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/legendre_function.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/modified_bessel_func.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/poly_hermite.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/poly_laguerre.tcc \
+ E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/tr1/riemann_zeta.tcc \
  E:\10_C++\03_Projects\SimpleGame\src\Game.hpp \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/iostream \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/ostream \
@@ -219,6 +237,7 @@ CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/istream \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/istream.tcc \
  E:\10_C++\03_Projects\SimpleGame\src\Enemy.hpp \
+ E:\10_C++\03_Projects\SimpleGame\src\InputHandler.hpp \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/vector \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_uninitialized.h \
  E:/mingw32/lib/gcc/i686-w64-mingw32/12.1.0/include/c++/bits/stl_vector.h \

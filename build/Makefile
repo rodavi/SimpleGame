@@ -276,6 +276,30 @@ src/GameObject.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/GameObject.cpp.s
 .PHONY : src/GameObject.cpp.s
 
+src/InputHandler.obj: src/InputHandler.cpp.obj
+.PHONY : src/InputHandler.obj
+
+# target to build an object file
+src/InputHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj
+.PHONY : src/InputHandler.cpp.obj
+
+src/InputHandler.i: src/InputHandler.cpp.i
+.PHONY : src/InputHandler.i
+
+# target to preprocess a source file
+src/InputHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.i
+.PHONY : src/InputHandler.cpp.i
+
+src/InputHandler.s: src/InputHandler.cpp.s
+.PHONY : src/InputHandler.s
+
+# target to generate assembly for a file
+src/InputHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.s
+.PHONY : src/InputHandler.cpp.s
+
 src/Player.obj: src/Player.cpp.obj
 .PHONY : src/Player.obj
 
@@ -373,6 +397,9 @@ help:
 	@echo ... src/GameObject.obj
 	@echo ... src/GameObject.i
 	@echo ... src/GameObject.s
+	@echo ... src/InputHandler.obj
+	@echo ... src/InputHandler.i
+	@echo ... src/InputHandler.s
 	@echo ... src/Player.obj
 	@echo ... src/Player.i
 	@echo ... src/Player.s

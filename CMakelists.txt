@@ -9,16 +9,20 @@ project(SimpleGame VERSION 1.0)
 add_subdirectory(src/SDL EXCLUDE_FROM_ALL)
 add_subdirectory(src/SDL_image EXCLUDE_FROM_ALL)
 #add_executable(SimpleGame main.cpp)
-add_executable(SimpleGame src/GameObject.cpp 
-src/SDLGameObject.cpp 
-src/LoaderParams.hpp 
-src/Enemy.cpp 
-src/Player.cpp 
-src/TextureManager.cpp 
-src/TextureManager.hpp 
-src/Game.cpp 
-src/Game.hpp 
-main.cpp)
+add_executable(SimpleGame 
+                src/Vector2D.hpp
+                src/GameObject.cpp 
+                src/SDLGameObject.cpp 
+                src/LoaderParams.hpp
+                src/InputHandler.cpp 
+                src/Enemy.cpp 
+                src/Player.cpp 
+                src/TextureManager.cpp 
+                src/TextureManager.hpp 
+                src/Game.cpp 
+                src/Game.hpp 
+                main.cpp
+                )
 
 #target_link_libraries(SimpleGame PUBLIC GameClass)
 #target_link_libraries(SimpleGame PRIVATE SDL3_image::SDL3_image SDL3::SDL3)

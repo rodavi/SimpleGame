@@ -64,6 +64,8 @@ bool Game::init(const char* title, int w, int h, int flags)
     m_gameObjects.push_back(new Player(new LoaderParams(300, 300, 128, 82, "animate")));
     m_gameObjects.push_back(new Enemy(new LoaderParams(0, 0, 128, 82, "animate")));
 
+    TheInputHandler::Instance()->initialiseJoysticks();
+    std::cout<<"InputHandle success\n";
     std::cout<<"init success\n";
     m_bRunning = true;
     return true;
@@ -90,7 +92,7 @@ void Game::update()
 
 void Game::handleEvents()
 {
-    SDL_Event event;
+    /*SDL_Event event;
     if(SDL_PollEvent(&event))
     {
         switch(event.type)
@@ -102,16 +104,20 @@ void Game::handleEvents()
             default:
             break;
         }
-    }
-
+    }*/
+    TheInputHandler::Instance()->update();
 }
 
 void Game::clean()
 {
     std::cout<<"cleaning game\n";
+    TheInputHandler::Instance()->clean();
     SDL_DestroyWindow(m_pWindow);
     SDL_DestroyRenderer(m_pRenderer);
-    SDL_Quit();
+
+    
+    
+    //SDL_Quit();
 }
 
 void Game::draw()
@@ -125,4 +131,11 @@ void Game::draw()
 bool Game::running()
 {
     return m_bRunning;
+}
+
+void Game::quit()
+{
+    //Game::clean();
+    std::cout<<"End\n";
+    SDL_Quit();
 }

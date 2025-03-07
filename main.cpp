@@ -21,6 +21,8 @@ int main(int arg, char* argv[])
             SDL_Delay(10);
         }
         TheGame::Instance()->clean();
+        std::cout<<"Game end\n";
+        TheGame::Instance()->quit();
     }
 
 

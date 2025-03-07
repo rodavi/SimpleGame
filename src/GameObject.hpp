@@ -3,6 +3,7 @@
 #include <string>
 #include "TextureManager.hpp"
 #include "LoaderParams.hpp"
+#include "Vector2D.hpp"
 
 #ifndef __GameObject__
 #define __GameObject__

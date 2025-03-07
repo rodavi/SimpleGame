@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SimpleGame.dir/src/Game.cpp.obj.d"
   "CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj"
   "CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj.d"
+  "CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj"
+  "CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj.d"
   "CMakeFiles/SimpleGame.dir/src/Player.cpp.obj"
   "CMakeFiles/SimpleGame.dir/src/Player.cpp.obj.d"
   "CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj"

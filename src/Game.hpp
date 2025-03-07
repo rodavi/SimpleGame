@@ -6,6 +6,7 @@
 #include "TextureManager.hpp"
 #include "Player.hpp"
 #include "Enemy.hpp"
+#include "InputHandler.hpp"
 #include <vector>
 
 class Game
@@ -58,6 +59,7 @@ class Game
         // a function to access the private running variable
         bool running();
 
+        void quit();
         SDL_Renderer* getRenderer() const {return m_pRenderer;}
 };
 

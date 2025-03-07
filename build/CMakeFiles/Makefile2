@@ -117,7 +117,7 @@ CMakeFiles/SimpleGame.dir/all: src/SDL_image/CMakeFiles/SDL3_image-shared.dir/al
 CMakeFiles/SimpleGame.dir/all: src/SDL/CMakeFiles/SDL3-shared.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SimpleGame.dir\build.make CMakeFiles/SimpleGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=98,99,100 "Built target SimpleGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=97,98,99,100 "Built target SimpleGame"
 .PHONY : CMakeFiles/SimpleGame.dir/all
 
 # Build rule for subdir invocation for target.
@@ -148,7 +148,7 @@ src/SDL/CMakeFiles/SDL3-shared.dir/all: src/SDL/CMakeFiles/SDL_uclibc.dir/all
 
 # Build rule for subdir invocation for target.
 src/SDL/CMakeFiles/SDL3-shared.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 86
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 85
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/SDL/CMakeFiles/SDL3-shared.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 0
 .PHONY : src/SDL/CMakeFiles/SDL3-shared.dir/rule
@@ -195,12 +195,12 @@ src/SDL/CMakeFiles/SDL3_test.dir/clean:
 src/SDL/CMakeFiles/SDL_uclibc.dir/all:
 	$(MAKE) $(MAKESILENT) -f src\SDL\CMakeFiles\SDL_uclibc.dir\build.make src/SDL/CMakeFiles/SDL_uclibc.dir/depend
 	$(MAKE) $(MAKESILENT) -f src\SDL\CMakeFiles\SDL_uclibc.dir\build.make src/SDL/CMakeFiles/SDL_uclibc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=89,90,91,92,93,94,95,96,97 "Built target SDL_uclibc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=89,90,91,92,93,94,95,96 "Built target SDL_uclibc"
 .PHONY : src/SDL/CMakeFiles/SDL_uclibc.dir/all
 
 # Build rule for subdir invocation for target.
 src/SDL/CMakeFiles/SDL_uclibc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/SDL/CMakeFiles/SDL_uclibc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 0
 .PHONY : src/SDL/CMakeFiles/SDL_uclibc.dir/rule
@@ -226,7 +226,7 @@ src/SDL_image/CMakeFiles/SDL3_image-shared.dir/all: src/SDL/CMakeFiles/SDL3-shar
 
 # Build rule for subdir invocation for target.
 src/SDL_image/CMakeFiles/SDL3_image-shared.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 93
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 92
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/SDL_image/CMakeFiles/SDL3_image-shared.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles 0
 .PHONY : src/SDL_image/CMakeFiles/SDL3_image-shared.dir/rule

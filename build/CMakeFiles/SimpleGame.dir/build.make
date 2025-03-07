@@ -98,11 +98,26 @@ CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.s"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\10_C++\03_Projects\SimpleGame\src\SDLGameObject.cpp -o CMakeFiles\SimpleGame.dir\src\SDLGameObject.cpp.s
 
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj: CMakeFiles/SimpleGame.dir/flags.make
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj: ../src/InputHandler.cpp
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj"
+	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj -MF CMakeFiles\SimpleGame.dir\src\InputHandler.cpp.obj.d -o CMakeFiles\SimpleGame.dir\src\InputHandler.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\src\InputHandler.cpp
+
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.i"
+	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\10_C++\03_Projects\SimpleGame\src\InputHandler.cpp > CMakeFiles\SimpleGame.dir\src\InputHandler.cpp.i
+
+CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.s"
+	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\10_C++\03_Projects\SimpleGame\src\InputHandler.cpp -o CMakeFiles\SimpleGame.dir\src\InputHandler.cpp.s
+
 CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj: CMakeFiles/SimpleGame.dir/flags.make
 CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
 CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj: ../src/Enemy.cpp
 CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj -MF CMakeFiles\SimpleGame.dir\src\Enemy.cpp.obj.d -o CMakeFiles\SimpleGame.dir\src\Enemy.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\src\Enemy.cpp
 
 CMakeFiles/SimpleGame.dir/src/Enemy.cpp.i: cmake_force
@@ -117,7 +132,7 @@ CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: CMakeFiles/SimpleGame.dir/flags.ma
 CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
 CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: ../src/Player.cpp
 CMakeFiles/SimpleGame.dir/src/Player.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SimpleGame.dir/src/Player.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SimpleGame.dir/src/Player.cpp.obj"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/src/Player.cpp.obj -MF CMakeFiles\SimpleGame.dir\src\Player.cpp.obj.d -o CMakeFiles\SimpleGame.dir\src\Player.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\src\Player.cpp
 
 CMakeFiles/SimpleGame.dir/src/Player.cpp.i: cmake_force
@@ -132,7 +147,7 @@ CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj: CMakeFiles/SimpleGame.dir/
 CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
 CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj: ../src/TextureManager.cpp
 CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj -MF CMakeFiles\SimpleGame.dir\src\TextureManager.cpp.obj.d -o CMakeFiles\SimpleGame.dir\src\TextureManager.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\src\TextureManager.cpp
 
 CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.i: cmake_force
@@ -147,7 +162,7 @@ CMakeFiles/SimpleGame.dir/src/Game.cpp.obj: CMakeFiles/SimpleGame.dir/flags.make
 CMakeFiles/SimpleGame.dir/src/Game.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
 CMakeFiles/SimpleGame.dir/src/Game.cpp.obj: ../src/Game.cpp
 CMakeFiles/SimpleGame.dir/src/Game.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SimpleGame.dir/src/Game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SimpleGame.dir/src/Game.cpp.obj"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/src/Game.cpp.obj -MF CMakeFiles\SimpleGame.dir\src\Game.cpp.obj.d -o CMakeFiles\SimpleGame.dir\src\Game.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\src\Game.cpp
 
 CMakeFiles/SimpleGame.dir/src/Game.cpp.i: cmake_force
@@ -162,7 +177,7 @@ CMakeFiles/SimpleGame.dir/main.cpp.obj: CMakeFiles/SimpleGame.dir/flags.make
 CMakeFiles/SimpleGame.dir/main.cpp.obj: CMakeFiles/SimpleGame.dir/includes_CXX.rsp
 CMakeFiles/SimpleGame.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/SimpleGame.dir/main.cpp.obj: CMakeFiles/SimpleGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SimpleGame.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SimpleGame.dir/main.cpp.obj"
 	E:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleGame.dir/main.cpp.obj -MF CMakeFiles\SimpleGame.dir\main.cpp.obj.d -o CMakeFiles\SimpleGame.dir\main.cpp.obj -c E:\10_C++\03_Projects\SimpleGame\main.cpp
 
 CMakeFiles/SimpleGame.dir/main.cpp.i: cmake_force
@@ -177,6 +192,7 @@ CMakeFiles/SimpleGame.dir/main.cpp.s: cmake_force
 SimpleGame_OBJECTS = \
 "CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj" \
 "CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj" \
+"CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj" \
 "CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj" \
 "CMakeFiles/SimpleGame.dir/src/Player.cpp.obj" \
 "CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj" \
@@ -188,6 +204,7 @@ SimpleGame_EXTERNAL_OBJECTS =
 
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj
+SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/Player.cpp.obj
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj
@@ -200,7 +217,7 @@ SimpleGame.exe: ../src/SDL/src/dynapi/SDL_dynapi.sym
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/linklibs.rsp
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/objects1.rsp
 SimpleGame.exe: CMakeFiles/SimpleGame.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable SimpleGame.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\10_C++\03_Projects\SimpleGame\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable SimpleGame.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SimpleGame.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

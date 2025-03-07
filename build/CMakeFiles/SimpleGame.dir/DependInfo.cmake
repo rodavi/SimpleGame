@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/10_C++/03_Projects/SimpleGame/src/Enemy.cpp" "CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/Enemy.cpp.obj.d"
   "E:/10_C++/03_Projects/SimpleGame/src/Game.cpp" "CMakeFiles/SimpleGame.dir/src/Game.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/Game.cpp.obj.d"
   "E:/10_C++/03_Projects/SimpleGame/src/GameObject.cpp" "CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/GameObject.cpp.obj.d"
+  "E:/10_C++/03_Projects/SimpleGame/src/InputHandler.cpp" "CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/InputHandler.cpp.obj.d"
   "E:/10_C++/03_Projects/SimpleGame/src/Player.cpp" "CMakeFiles/SimpleGame.dir/src/Player.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/Player.cpp.obj.d"
   "E:/10_C++/03_Projects/SimpleGame/src/SDLGameObject.cpp" "CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/SDLGameObject.cpp.obj.d"
   "E:/10_C++/03_Projects/SimpleGame/src/TextureManager.cpp" "CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj" "gcc" "CMakeFiles/SimpleGame.dir/src/TextureManager.cpp.obj.d"

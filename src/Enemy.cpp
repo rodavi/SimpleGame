@@ -18,8 +18,10 @@ void Enemy::draw()
 
 void Enemy::update()
 {
-    m_y += 1;
-    m_x += 1;
+    m_velocity.setX(2);
+    m_velocity.setY(1);
+
+    SDLGameObject::update();
 }
 
 void Enemy::clean()
