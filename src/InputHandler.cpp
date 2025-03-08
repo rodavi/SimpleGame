@@ -25,6 +25,7 @@ void InputHandler::update()
     {
         if(event.type == SDL_EVENT_QUIT)
         {
+            //std::cout<<"Input update quit\n";
             TheGame::Instance()->quit();
         }
     }

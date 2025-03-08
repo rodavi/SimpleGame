@@ -111,11 +111,7 @@ void Game::handleEvents()
 void Game::clean()
 {
     std::cout<<"cleaning game\n";
-    TheInputHandler::Instance()->clean();
-    SDL_DestroyWindow(m_pWindow);
-    SDL_DestroyRenderer(m_pRenderer);
-
-    
+    TheInputHandler::Instance()->clean();  
     
     //SDL_Quit();
 }
@@ -136,6 +132,8 @@ bool Game::running()
 void Game::quit()
 {
     //Game::clean();
-    std::cout<<"End\n";
+    m_bRunning = false;
+    SDL_DestroyWindow(m_pWindow);
+    SDL_DestroyRenderer(m_pRenderer);
     SDL_Quit();
 }

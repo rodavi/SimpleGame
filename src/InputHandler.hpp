@@ -8,8 +8,6 @@ class InputHandler
 
     public:
 
-    int m_numJoysticks;
-
     static InputHandler* Instance()
     {
         if(s_pInstance == nullptr)
@@ -33,6 +31,7 @@ class InputHandler
     static InputHandler* s_pInstance;
     bool m_bJoysticksInitialised;
     std::vector<SDL_Joystick*> m_joysticks;
+    int m_numJoysticks;
 
     InputHandler(){}
     ~InputHandler(){}
